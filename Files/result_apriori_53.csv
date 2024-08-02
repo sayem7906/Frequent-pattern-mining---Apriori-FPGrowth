@@ -1,0 +1,2 @@
+dataset,min_sup %,Total Patterns,Apriori time,Apriori memory
+mushroom,35.0,1189,28.4075,4.678391
